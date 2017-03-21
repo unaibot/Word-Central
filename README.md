@@ -1,4 +1,4 @@
-#Word Central
+# Word Central
 
 **WordCentral** is an app, that let you know how many time
 would you spend reading a text.
@@ -8,7 +8,7 @@ will know not only how many *words* that text has, but also,
 how much *time* you will spend reading it!
 
 
-This app, was developed in ==**Rails 5.0.0**==
+This app, was developed in **Rails 5.0.0**
 
 ***
 
