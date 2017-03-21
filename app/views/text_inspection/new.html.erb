@@ -1,0 +1,31 @@
+
+<div class="container">
+
+	<div class="row">
+		<h1 class="text-center">Creation</h1>
+	</div>
+
+
+	<div class="row">
+				<h4 class="text-left">Please, insert text:</h4>
+	</div>
+
+	<div class="row">
+
+		<form action="/text_inspection" method="post">	
+
+			 	<div class="text-left">
+			    	<label for="text_inspection_user_text"></label>
+			    	<textarea name="text_inspection[user_text]" id="text_inspection_user_text"></textarea>
+			  	</div>
+			  
+			  	<button type="submit" class="text-center">Submit text</button>
+
+			  	<input type="hidden" name="authenticity_token"
+			      value="<%= form_authenticity_token %>">
+
+		</form>
+
+	</div>
+
+</div>
