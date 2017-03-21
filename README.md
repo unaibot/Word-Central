@@ -1,24 +1,28 @@
-# README
+#Word Central
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**WordCentral** is an app, that let you know how many time
+would you spend reading a text.
 
-Things you may want to cover:
+You just have to enter a custom *text*, and with a click, you
+will know not only how many *words* that text has, but also,
+how much *time* you will spend reading it!
 
-* Ruby version
 
-* System dependencies
+This app, was developed in ==**Rails 5.0.0**==
 
-* Configuration
+***
 
-* Database creation
+UI/UX
 
-* Database initialization
+- [ ] Complete
+- [x] Incomplete
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+******
+
+Feel free to use it or modify it.
+
+
